@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+Proteiner_Content_Calendar/
