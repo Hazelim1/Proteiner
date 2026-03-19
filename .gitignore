@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Environment
+.env
+
+# Generated output (regenerated on each run)
+Proteiner_Content_Calendar/
+
+# Test artifacts
+_test_output/
+
+# OS
+.DS_Store
+Thumbs.db
